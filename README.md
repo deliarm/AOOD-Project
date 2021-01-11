@@ -6,7 +6,7 @@ The object of the game is to navigate the map(using W,A,S,D) in order to collect
 At the top left of the screen there is a health bar indicating how close a player is to dying, and it also displays the number of coins collected. In order to set the highest score possible players must attempt to finish the game as fast as they can.
 
 
-##Downloading##
+## Downloading ##
 In order to run this game you must have java installed.
 Go to the 'Demo2' branch and click on the 'src' folder.
 Download all the classes in the src folder and unzip them
